@@ -8,7 +8,7 @@ src: https://github.com/CodeByAshuu/BounceBalls
 # https://codepen.io/pen?template=bNVoQPL
 info:
   idea: The main idea was to make some verlet simulated ropes and connect them to the rang slider's thumb and let them sway
-  tech: [Javascript, Canvas]
+  tech: [Javascript, Canvas, CSS]
   links:
     - [ On Codepen, https://codepen.io/anuraghazra/pen/agKJEd ]
     - [ Verly.js - Physics engine that it uses, https://github.com/anuraghazra/Verly.js ]

@@ -3,8 +3,8 @@ title: Cara
 excerpt:
   Cara is a sleek and responsive fashion retail website designed to offer a seamless shopping experience. Featuring a clean, minimalistic design and intuitive navigation across its five pages. Cara showcases a wide range of clothes, shoes, bags, and jewelry. Its focus on user-friendliness and visual elegance makes Cara an engaging platform for fashion enthusiasts to explore and shop with ease.
 
-iframe: https://codebyashuu.github.io/Cara-FashionRetailWebsite/index.html
-demo: https://codebyashuu.github.io/Cara-FashionRetailWebsite/index.html
+iframe: https://cara-gamma-one.vercel.app/
+demo: hhttps://cara-gamma-one.vercel.app/
 src: https://github.com/CodeByAshuu/Cara-FashionRetailWebsite
 
 info:
@@ -13,7 +13,7 @@ info:
   tech: [HTML, CSS, JavaScript]
 ---
 
-- Live Demo: https://codebyashuu.github.io/Cara-FashionRetailWebsite/index.html
+- Live Demo: https://cara-gamma-one.vercel.app/
 - Source Code: https://github.com/CodeByAshuu/Cara-FashionRetailWebsite
 
 ## ✨ Features
