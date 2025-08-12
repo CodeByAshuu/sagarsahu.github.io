@@ -7,7 +7,7 @@ demo: //anuraghazra.github.io/BounceBalls
 src: https://github.com/CodeByAshuu/BounceBalls
 # https://codepen.io/pen?template=bNVoQPL
 info:
-  idea: The main idea was to make some verlet simulated ropes and connect them to the rang slider's thumb and let them sway
+  idea: The main idea was to create a simple, interactive web-based simulation that visually demonstrates basic physics concepts like gravity, collision detection, and elastic bouncing.
   tech: [Javascript, Canvas, CSS]
   links:
     - [ On Codepen, https://codepen.io/anuraghazra/pen/agKJEd ]
