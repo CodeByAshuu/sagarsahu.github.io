@@ -13,7 +13,7 @@
     "ajv-keywords": "^5.1.0",
     "babel-plugin-styled-components": "^2.1.4",
     "disqus-react": "^1.1.4",
-    "gatsby": "^5.13.3",
+    "gatsby": "^5.14.6",
     "gatsby-image": "^2.11.0",
     "gatsby-plugin-google-gtag": "^5.13.1",
     "gatsby-plugin-image": "^3.13.1",
@@ -37,8 +37,8 @@
     "normalize.css": "^8.0.1",
     "prismjs": "^1.29.0",
     "prop-types": "^15.8.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-grid-system": "^7.1.0",
     "react-helmet": "^6.1.0",
     "react-intersection-observer": "^9.5.3",
@@ -54,7 +54,7 @@
     "typeface-montserrat": "^1.1.13"
   },
   "devDependencies": {
-    "@testing-library/cypress": "^9.0.0",
+    "@testing-library/cypress": "^10.0.3",
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.2.1",
     "axios": "^1.6.7",

@@ -54,7 +54,7 @@ const WordClouds = () => {
       <p style={{ top: 40, left: '75%', fontSize: 12 }}>antd</p>
       <p style={{ top: 380, left: '85%', fontSize: 18 }}>MongoDB</p>
       <p style={{ top: 320, left: '65%', fontSize: 18 }}>ExpresS</p>
-      <p style={{ top: 350, left: 150, fontSize: 20 }}>ES6</p>
+      <p style={{ top: 150, left: 150, fontSize: 20 }}>ES6</p>
       <p style={{ top: 120, left: '22%', fontSize: 12 }}>blender</p>
     </Parallax>
   );
