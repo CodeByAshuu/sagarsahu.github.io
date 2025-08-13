@@ -3,21 +3,23 @@ import styled from 'styled-components';
 export const InfoTitle = styled.h4`
   color: ${p => p.theme.primaryColor};
   display: flex;
-  width: 100%;
-  justify-content: center;
   align-items: center;
-  text-align: center;
   font-weight: 600;
   font-size: 16px;
   margin: 15px 0;
 
   ::after {
-    content: '';
-    border-top: 1px solid;
-    margin: 0 20px 0 10px;
-    flex: 1 0 20px;
+    content: "";
+    display: inline-block;       /* make it render */
+    height: 1px;                 /* thickness */
+    background-color: blue;      /* color */
+    flex-grow: 1;                /* take remaining space */
+    margin-left: 10px;           /* space after text */
   }
 `;
+
+
+
 
 export const CaseStudyWrapper = styled.section`
   margin-top: 100px;

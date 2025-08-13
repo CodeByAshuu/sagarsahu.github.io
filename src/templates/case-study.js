@@ -21,7 +21,15 @@ const CaseStudy = ({ data }) => {
 
   const infoLinks = study.info.links && (
     <div>
-      <InfoTitle>Links & Resources</InfoTitle>
+      <InfoTitle>Links & Resources<span
+        style={{
+          flexGrow: 1,
+          height: '1px',
+          backgroundColor: '#6D83F2',
+          display: 'inline-block',
+          marginLeft: '10px',
+        }}
+      ></span></InfoTitle>
       <ul>
         {study.info.links.map((link, i) => (
           <li key={i}>
@@ -54,11 +62,27 @@ const CaseStudy = ({ data }) => {
         <section className="case__info">
           <div>
             <aside>
-              <InfoTitle>Idea</InfoTitle>
+              <InfoTitle>Idea<span
+                  style={{
+                  flexGrow: 1,
+                  height: '0.5px',
+                  backgroundColor: '#6D83F2',
+                  display: 'inline-block',
+                  margin: '0px 20px 0px 10px',
+                }}
+              ></span></InfoTitle>
               <p>{study.info.idea}</p>
             </aside>
             <aside>
-              <InfoTitle>Core Technologies</InfoTitle>
+              <InfoTitle>Core Technologies<span
+                  style={{
+                  flexGrow: 1,
+                  height: '0.5px',
+                  backgroundColor: '#6D83F2',
+                  display: 'inline-block',
+                  margin: '0px 20px 0px 10px',
+                }}
+              ></span></InfoTitle>
               <ul>
                 {study.info.tech.map((tech, i) => (
                   <li key={i}>{tech}</li>

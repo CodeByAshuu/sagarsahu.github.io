@@ -1,21 +1,31 @@
 ---
-title: Evolution Aquerium
-excerpt: Evolution Aquarium is based on Craig Reynold's Steering Behaviors and Flocking System, and It implements a Genetic Algorithm and mutations. Daniel Shiffman showcased this on his Youtube Channel at TheCodingTrain. And I was pleased about the humble feedback; sir Daniel Shiffman gave to me. It just boosted my confidence more and more, and motivated me to make this project better.
+title: SyllabiSync
+excerpt: SyllabiSync is a smart platform designed to help students easily explore and compare college syllabi across AICTE-approved institutions in India. With a sleek interface and powerful filters, it simplifies academic planning by offering centralized access to updated curriculum details, institute information, and course structures—all in one place.
 
-iframe: //www.youtube.com/embed/GKIhVrOsQCI/?modestbranding=1&showinfo=0&autohide=1&rel=0
-demo: //anuraghazra.github.io/EvolutionAquerium
-src: //github.com/anuraghazra/EvolutionAquerium
+iframe: //www.youtube.com/embed/EnfVwjyI6Zc?si=7DysY6PgyYiJWBUs
+demo: //CodeByAshuu.github.io/SyllabiSync
+src: //github.com/CodeByAshuu/SyllabiSync
 
 info:
-  idea: The basic idea of the project is to achieve and simulate biological creatures in an aquarium to see how they react in different scenarios
-  tech: [Javascript, HTML5 Canvas]
+  idea: The basic idea of the project is to a build a unified portal for model curriculum for all the AICTE approved Insititutes.
+  tech: [HTML5 , CSS3, TailwindCSS, JavaScript, jQuery, PHP, MySQL, XAMPP]
   links:
-    - [
-        CodingTrain Steering Behavior Playlist,
-        https://www.youtube.com/watch?v=mhjuuHl6qHM&t=1978s,
-      ]
-    - [Craige Reynold’s Flocking Behavior, https://www.red3d.com/cwr/index.html]
+    - [Freepik | minimalistic images,https://www.freepik.com/,]
+    - [AICTE Official Site, https://www.aicte-india.org/]
+    - [AICTE Universities API, https://www.aicte-india.org/education/institutions/Universities]
 ---
+## Tech Stack
+- **FrontEnd**
+  - HTML
+  - CSS
+  - Tailwind CSS
+  - JavaScript
+- **BackEnd**
+  - PHP
+  - XAMPP
+- **Database**
+  - MySQL
+
 
 ## How It Works?
 
