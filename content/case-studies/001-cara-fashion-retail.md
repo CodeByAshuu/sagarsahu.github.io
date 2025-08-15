@@ -4,7 +4,7 @@ excerpt:
   Cara is a sleek and responsive fashion retail website designed to offer a seamless shopping experience. Featuring a clean, minimalistic design and intuitive navigation across its five pages. Cara showcases a wide range of clothes, shoes, bags, and jewelry. Its focus on user-friendliness and visual elegance makes Cara an engaging platform for fashion enthusiasts to explore and shop with ease.
 
 iframe: https://cara-gamma-one.vercel.app/
-demo: hhttps://cara-gamma-one.vercel.app/
+demo: https://cara-gamma-one.vercel.app/
 src: https://github.com/CodeByAshuu/Cara-FashionRetailWebsite
 
 info:
